@@ -1,0 +1,9 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "React Tutorial",
+      "views": 1000
+    }
+  ]
+}

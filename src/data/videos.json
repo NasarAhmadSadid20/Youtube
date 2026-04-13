@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhDMh-OocnRCw3jKBbbQIXkb_femM-00TTA&s",
+    "title": "Learn React in 40 Minutes",
+    "channel": "Afghan Skill",
+    "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aC9nIpNldoGKYFTvt1Iiu_PrJOmCwrplKw&s",
+    "views": "2.5K views",
+    "time": "2 days ago"
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://www.datocms-assets.com/48401/1627664298-javascript.png?fit=max&fm=webp&w=900",
+    "title": "JavaScript Basics",
+    "channel": "JavaScript Master",
+    "channelLogo": "https://www.datocms-assets.com/48401/1627664298-javascript.png?fit=max&fm=webp&w=900",
+    "views": "5K views",
+    "time": "1 week ago"
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0lzmT668r5Vssa0DcC1n2CeGdx2R43lE_A&s",
+    "title": "Amazon Product Review",
+    "channel": "ShopSmart",
+    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "views": "12K views",
+    "time": "3 days ago"
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPsYQM90k47y39PBTVYMbg6ZRp8IMOKRgqhQ&s",
+    "title": "AI in 2026: Future Trends",
+    "channel": "TechWorld",
+    "channelLogo": "data:image/png;base64,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",
+    "views": "8K views",
+    "time": "1 month ago"
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_j85yZrysF90d5Le6UPa27KmUWnmHFOAVA&s",
+    "title": "Music Mixing Tutorial",
+    "channel": "BeatMaster",
+    "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCk7OPxb2NgsvZId-lR3oA1_4jS7oRnbjAQw&s",
+    "views": "20K views",
+    "time": "2 weeks ago"
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2lreND6qVDum3apiG3iAEbaHuFvYgd3X-A&s",
+    "title": "CSS Grid Layout Guide",
+    "channel": "Pedro Tech",
+    "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLFtUxgda0C7E90oPYuI7IxiETbAF6WOD2w&s",
+    "views": "10K views",
+    "time": "1 month ago"
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIviTPCD7epj8fyQGlF5uMqKIE20C_JuULQw&s",
+    "title": "Flutter App UI Design",
+    "channel": "GreatStack",
+    "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwBbvVyJooVvRgvT5MW6eUzTRNvzpTtJOmQ&s",
+    "views": "7K views",
+    "time": "3 days ago"
+  },
+  {
+    "id": 8,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPsYQM90k47y39PBTVYMbg6ZRp8IMOKRgqhQ&s",
+    "title": "Flutter App UI Design",
+    "channel": "GreatStack",
+    "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwBbvVyJooVvRgvT5MW6eUzTRNvzpTtJOmQ&s",
+    "views": "7K views",
+    "time": "3 days ago"
+  }
+]
